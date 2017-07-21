@@ -346,6 +346,8 @@ TAG_MAP = {
     "ADJPlInstrShort":      {POS: ADJ, "Gender": : "N", "Number" : "plur", "Case" : "Instr", "ADJType" : "Short"},
     "ADJPlPrepShort":      {POS: ADJ, "Gender": : "N", "Number" : "plur", "Case" : "Prep", "ADJType" : "Short"},
     
+    "ADJComp": {POS:ADJ, "ADJType":"Comp"}
+    
     "VERB":     {POS: VERB},
     "PART":     {POS: PART},
     "SP":     	{POS: SPACE}
