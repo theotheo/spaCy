@@ -12,11 +12,11 @@ from .. import util
 
 
 _languages = ['bn', 'da', 'de', 'en', 'es', 'fi', 'fr', 'he', 'hu', 'it', 'nb',
-              'nl', 'pl', 'pt', 'sv', 'xx']
+              'nl', 'pl', 'pt', 'sv', ' ru']
 _models = {'en': ['en_depent_web_sm', 'en_core_web_md'],
            'de': ['de_core_news_md'],
            'fr': ['fr_depvec_web_lg'],
-           'xx': ['xx_ent_web_md']}
+           'ru': ['ru_ent_web_md']}
 
 
 # only used for tests that require loading the models
